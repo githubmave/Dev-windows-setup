@@ -1,4 +1,4 @@
-# windows-setup   dfsgdfhfdh
+# windows-setup   https://eda-student-handbook.netlify.app/
 instructions to help you set up the linux subsystem on windows 10
 
 VIDEO WALKTHOUGH:
